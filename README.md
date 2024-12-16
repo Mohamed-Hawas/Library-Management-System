@@ -144,7 +144,7 @@ Here’s how to use your **Library Management System**:
 
 ## Demo video
 
-<video width="640" height="360" controls>
+<video>
   <source src="media/oop_demo.mp4" type="video/mp4">
 </video>
 
